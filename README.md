@@ -5,7 +5,16 @@
 <h3 align="center">I am interested in backend development and AI.</h3>
 <img align="right" alt="my" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Django, React, Tensorflow**
+- 🔭 I’m currently learning at [**Airlangga University**](https://unair.ac.id)  
+  
+
+- 🌱 I’m currently learning **Django, React, Tensorflow** 
+  
+
+- ❓ Ask me about anything related to **Backend Development and AI**
+  
+
+- ⚡ Fun fact: **I Love Cat**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xmaulana&label=Profile%20views&color=0e75b6&style=flat" alt="xmaulana" /> </p>
