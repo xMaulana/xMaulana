@@ -5,6 +5,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  ## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/https://www.linkedin.com/in/muhammad-wisnu-maulana-4b4925247)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mwmaulana310)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
