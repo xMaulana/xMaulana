@@ -14,7 +14,7 @@
 - ❓ Ask me about anything related to **Backend Development and AI**
   
 
-- ⚡ Fun fact: **I Love Cat**
+- ⚡ Fun fact: **I enjoy coding while listening to lo-fi music.**
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xmaulana" alt="xmaulana" /></a> </p>
