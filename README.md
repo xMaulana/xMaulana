@@ -8,10 +8,10 @@
 - 🔭 I’m currently learning at [**Airlangga University**](https://unair.ac.id)  
   
 
-- 🌱 I’m currently learning **Django, React, Tensorflow** 
+- 🌱 I’m currently learning **Django, React, Tensorflow, and Microcontroller** 
   
 
-- ❓ Ask me about anything related to **Backend Development and AI**
+- ❓ Ask me about anything related to **Backend Development, Robotics, and AI**
   
 
 - ⚡ Fun fact: **I enjoy coding while listening to lo-fi music.**
