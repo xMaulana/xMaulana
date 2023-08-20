@@ -34,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmaulana&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&include_all_commits=true" alt="xmaulana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xmaulana&show_icons=true&locale=en" alt="xmaulana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xmaulana&show_icons=true&locale=en&theme=dark&hide_border=fals" alt="xmaulana" /></p>
