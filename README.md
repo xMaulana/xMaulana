@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-<h1 align="center">Hi 👋, I'm xMaulana</h1>
+<h1 align="center">Hi 👋, I'm Maulana</h1>
 <h3 align="center">I am interested in backend development and AI.</h3>
 <img align="right" alt="my" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
