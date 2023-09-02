@@ -27,6 +27,7 @@
 <p align="left"
   <a href="https://www.linkedin.com/in/muhammad-wisnu-maulana-4b4925247"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="120"></a>
   <a href="https://instagram.com/mwmaulana310"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"></a>
+  <a href="https://huggingface.co/xMaulana"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
