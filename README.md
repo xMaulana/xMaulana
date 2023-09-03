@@ -3,7 +3,7 @@
 </div>  
 <h1 align="center">Hi 👋, I'm Maulana</h1>
 <h3 align="center">I am interested in web backend development, robotics, and AI.</h3>
-<img align="right" alt="my" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 
 - 🔭 I’m currently learning at [**Airlangga University**](https://unair.ac.id)  
   
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: **I enjoy coding while listening to lo-fi music.**
 
-<br><br>
+<img align="right" alt="my" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xmaulana" alt="xmaulana" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xmaulana&label=Profile%20views&color=0e75b6&style=flat-square" alt="xmaulana" /> </p>
