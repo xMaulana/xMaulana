@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: **I enjoy coding while listening to lo-fi music.**
 
-<br><br><br>
+<br><br><br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xmaulana" alt="xmaulana" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xmaulana&label=Profile%20views&color=0e75b6&style=flat-square" alt="xmaulana" /> </p>
