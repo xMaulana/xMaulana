@@ -8,13 +8,13 @@
 - 🔭 I’m currently learning at [**Airlangga University**](https://unair.ac.id)  
   
 
-- 🌱 I’m currently learning **Django, React, Machine learning, Deep Learning, and Microcontroller** 
+- 🌱 I’m currently learning **Generative AI, Automated Guided Vehicle, and Electronics** 
   
 
 - ❓ Ask me about anything related to **Backend Development, Robotics, and AI**
   
 
-- ⚡ Fun fact: **I enjoy coding while listening to lo-fi music.**
+- ⚡ Fun fact: **I better find out about this thing later**
 
 <br><br><br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xmaulana" alt="xmaulana" /></a> </p>
