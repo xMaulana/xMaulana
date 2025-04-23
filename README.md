@@ -8,7 +8,7 @@
 - 🔭 I’m currently learning at [**Airlangga University**](https://unair.ac.id)  
   
 
-- 🌱 I’m currently learning **Generative AI and Automated Guided Vehicle** 
+- 🌱 I’m currently learning **Generative and Agentic AI** 
   
 
 - ❓ Ask me about anything related to **Backend Development, Robotics, and AI**
