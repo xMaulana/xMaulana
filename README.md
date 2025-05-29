@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Generative and Agentic AI** 
   
 
-- ❓ Ask me about anything related to **Backend Development, Robotics, and AI**
+- ❓ Ask me about anything related to **Robotics and AI**
   
 
 - ⚡ Fun fact: **I better find out about this thing later**
